@@ -14,6 +14,6 @@
 		<constructor-arg index="0" type="java.lang.String"
 			value="sqlfarm.server.int" />
 		<constructor-arg index="2" value="admin" />
-		<constructor-arg index="3" ref="passwordBean"/>
+		<constructor-arg index="3" ref="passwordBean" />
 	</bean>
 </beans>
